@@ -27,7 +27,7 @@ The project demonstrates the full data analytics workflow including **data clean
 
 # 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard Snapshot.png)
 
 The Power BI dashboard provides insights into:
 
